@@ -7,7 +7,6 @@
 tmp/
 website
 node_modules/
-style.css
 
 # Binaries for programs and plugins
 *.exe
