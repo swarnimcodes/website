@@ -6,6 +6,7 @@
 *_templ.go
 tmp/
 website
+node_modules/
 
 # Binaries for programs and plugins
 *.exe
